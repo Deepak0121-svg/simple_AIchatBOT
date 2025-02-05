@@ -17,7 +17,7 @@ def generate_response(prompt):
     return res.text
 
 # Streamlit App UI
-st.title(" 𝕋ℝ𝕩 𝔹𝕆𝕋 ✨")
+st.title(" 𝕋ℝ𝕩 𝔹𝕆𝕋🦖")
 
 # Initialize chat history
 if "messages" not in st.session_state:
